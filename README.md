@@ -1,7 +1,7 @@
 Infi Names (Name Generator)
 =================================
 
-[![Language](https://img.shields.io/badge/language-Flutter-blue.svg?style=flat)](https://www.flutter.dev)
+[![Language](https://img.shields.io/badge/SDK-Flutter-blue.svg?style=flat)](https://www.flutter.dev)
 [![Platform](https://img.shields.io/badge/Platform-iOS-orange.svg?style=flat)](https://github.com/KrishnaAlagiri)
 [![Platform](https://img.shields.io/badge/Platform-Android-darkgreen.svg?style=flat)](https://github.com/KrishnaAlagiri)
 
